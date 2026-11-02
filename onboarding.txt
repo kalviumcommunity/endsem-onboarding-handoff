@@ -1,0 +1,3 @@
+Developer onboarding
+Keep each change focused.
+Read project instructions before editing.
